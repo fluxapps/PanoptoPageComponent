@@ -1,5 +1,5 @@
-VimpPageComponent
-============
+PanoptoPageComponent
+====================
 ### Description
 This is an additional Plugin for the Panopto Plugin, thus it only works with Panopto installed (see https://github.com/studer-raimann/Panopto).
 It allows you to add videos from Panopto in any Text-Media-Editor in ILIAS.
